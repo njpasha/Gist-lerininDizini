@@ -1,5 +1,7 @@
 ## Directory of Gists
 
+> :warning: **Errata**: I try my best to avoid mistakes, however, despite best efforts, occasional errors might creep into my notes. If you see something incorrect, feel free to reach out with a correction.
+
 ### Computer Science Notes
 
 #### CS 6515 Graduate Algorithms
