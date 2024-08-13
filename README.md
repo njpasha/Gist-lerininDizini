@@ -2,6 +2,13 @@
 
 > :warning: **Errata**: I try my best to avoid mistakes, however, despite best efforts, occasional errors might creep into my notes. If you see something incorrect, feel free to reach out with a correction.
 
+> :memo: **Attribution**: Most of these are my own work, but occasionally, I have been a bit lazy and borrowed something shared by acquaintances, mostly some folks nice enough to share Gists of their notes (... with permission of course). 📣 Shoutout to everyone who contributed to this repository!
+
+### Mathematics Notes
+
+#### Introduction to Abstract Maths
+* [Logic: Rules of Inference](https://gist.github.com/gllch/136a548b248e314ed9a4c692b7360006)
+
 ### Computer Science Notes
 
 #### CS 6460 Educational Technology: Conceptual Foundations
