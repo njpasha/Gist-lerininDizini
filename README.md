@@ -16,6 +16,10 @@
 
 ### Computer Science Notes
 
+#### CS 6440 Health Informatics
+* [Anatomicomedical Glossary](https://gist.github.com/parisaaak/1945fc2850a43827596f0b656638d293)
+* [i2b2 Architecture](https://gist.github.com/parisaaak/3800537b44fc8265001ee170b379320e)
+
 #### CS 6460 Educational Technology: Conceptual Foundations
 * [Basics of Research](https://gist.github.com/njpasha/fc8a2173b4c34aa7a2e4337d36a50a5f)
 
@@ -40,6 +44,11 @@
 
 #### CS 6795 Cognitive Science
 * [Where does the Boundary of Cognition Lie?](https://gist.github.com/njpasha/94ff9459842ca7e158844919d7bf7336)
+
+#### CS 7210 Distributed Computing
+* [Distributed Systems: Three (Not-So-)Easy Pieces](https://gist.github.com/parisaaak/b7fd0ee27a152569993d52d10ebd1ad4)
+* [Consensus Protocols 101](https://gist.github.com/parisaaak/87bdeac294797c542dfeebbb8983891a)
+* [The Part-Time Parliament of Paxos](https://gist.github.com/parisaaak/845bc40baf1bef179cf7d8c61f1e117d)
 
 #### CS 7470 Mobile and Ubiquitous Computing
 * [Generations in the History of Computing](https://gist.github.com/njpasha/3586240922abdc78e0ed1210f9d196d8)
