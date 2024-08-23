@@ -11,6 +11,9 @@
 * [Mathematical Proofs: Strategies](https://gist.github.com/gllch/2a5a13f2356fae9adb6cdb095b94f1b4)
 * [Proof Writing Tips](https://gist.github.com/gllch/ad3546bc56388d1c5f658533ab7d62ce)
 
+#### Index of Resources
+* [Mathematical Tripos (IA, IB, II, III) modules and recommended books](https://gist.github.com/miryamkheir/063166ebe8b7aca84893a14924f8f6fe)
+
 ### Computer Science Notes
 
 #### CS 6460 Educational Technology: Conceptual Foundations
