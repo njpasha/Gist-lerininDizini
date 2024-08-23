@@ -8,6 +8,8 @@
 
 #### Introduction to Abstract Maths
 * [Logic: Rules of Inference](https://gist.github.com/gllch/136a548b248e314ed9a4c692b7360006)
+* [Mathematical Proofs: Strategies](https://gist.github.com/gllch/2a5a13f2356fae9adb6cdb095b94f1b4)
+* [Proof Writing Tips](https://gist.github.com/gllch/ad3546bc56388d1c5f658533ab7d62ce)
 
 ### Computer Science Notes
 
