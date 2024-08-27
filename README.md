@@ -11,6 +11,9 @@
 * [Mathematical Proofs: Strategies](https://gist.github.com/gllch/2a5a13f2356fae9adb6cdb095b94f1b4)
 * [Proof Writing Tips](https://gist.github.com/gllch/ad3546bc56388d1c5f658533ab7d62ce)
 
+#### Optimisation and Control
+* [Deriving the Bellman Optimality Equation](https://gist.github.com/FajrAurangzeb/7e7a32b5e8523c1b65a2326d860ef12a)
+
 #### Index of Resources
 * [Mathematical Tripos (IA, IB, II, III) modules and recommended books](https://gist.github.com/miryamkheir/063166ebe8b7aca84893a14924f8f6fe)
 
@@ -43,7 +46,15 @@
 * [Cheatsheet: Distributed Cognition as a Theoretical Framework for Information Visualisation ~ Liu, Nersessian, & Stasko](https://gist.github.com/njpasha/aa8dc633b431bf8eac1c4d6815548bae)
 
 #### CS 6795 Cognitive Science
+* [Summary of Computational Theories and Approaches in Cognitive Science](https://gist.github.com/njpasha/1168b48983ba8bf5907576fd5d01d667)
+* [Applications of Computationalist Theories](https://gist.github.com/njpasha/e3a670bffd07b13a90fa7a7d9bca3b14)
 * [Where does the Boundary of Cognition Lie?](https://gist.github.com/njpasha/94ff9459842ca7e158844919d7bf7336)
+* [Dimensions of Similarity](https://gist.github.com/ummzahra/fb1090d940570d6a14a11fd3264da880)
+* [Architecture for Analogical Reasoning](https://gist.github.com/ummzahra/478bc163dadee5648416e5839c6457a3)
+* [Architecture of a Cognitive System](https://gist.github.com/ummzahra/74037623e66779d5f3ab609cdcd8b647)
+* [SOAR Architecture](https://gist.github.com/ummzahra/2c0ed47881c614d15ad705cfc235a1ba)
+* [ACT-R Architecture](https://gist.github.com/ummzahra/2b19f12adc7b3d850fb86784e4792d18)
+* [Social Learning Mechanisms](https://gist.github.com/ummzahra/a40354d527a9622b56906ed33b39258c)
 
 #### CS 7210 Distributed Computing
 * [Distributed Systems: Three (Not-So-)Easy Pieces](https://gist.github.com/parisaaak/b7fd0ee27a152569993d52d10ebd1ad4)
@@ -52,3 +63,10 @@
 
 #### CS 7470 Mobile and Ubiquitous Computing
 * [Generations in the History of Computing](https://gist.github.com/njpasha/3586240922abdc78e0ed1210f9d196d8)
+
+#### CS 7643 Deep Learning
+* [Fundamentals of Reinforcement Learning](https://gist.github.com/FajrAurangzeb/c2934aa3a9c123f1e5e708a84fea3146)
+
+#### CS 8803-O23 Modern Internet Research Methods
+* [Scanning the Internet for Liveness ~ Bano et al.](https://gist.github.com/jm-d3d53c/4e4563f2646a70a46feec5987303e1c2)
+* [Network Measurement Methods for Locating and Examining Censorship Devices ~ Raman et al.](https://gist.github.com/jm-d3d53c/8c4a84eb569a4f019f3124d742a7be5b)
