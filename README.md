@@ -2,6 +2,8 @@
 
 > :warning: **Errata**: I try my best to avoid mistakes, however, despite best efforts, occasional errors might creep into my notes. If you see something incorrect, feel free to reach out with a correction.
 
+> :mag: **Content**: The Gists span lecture notes, reading notes, as well as student research notes.
+
 > :memo: **Attribution**: Most of these are my own work, but occasionally, I have been a bit lazy and borrowed something shared by acquaintances, mostly some folks nice enough to share Gists of their notes (... with permission of course). 📣 Shoutout to everyone who contributed to this repository!
 
 ### Mathematics Notes
