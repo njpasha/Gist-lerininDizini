@@ -70,12 +70,12 @@
 * [Fundamentals of Reinforcement Learning](https://gist.github.com/FajrAurangzeb/c2934aa3a9c123f1e5e708a84fea3146)
 
 #### CS 8803-LLM Large Language Models
-* [ChatGPT's Impact on Education](https://gist.github.com/ummammarah/d01ea0212968c24de1570a5366362431)
-* [LLM-Resilient Exams](https://gist.github.com/ummkhawla/c9a427f02b403a27674254bffbc2fd45)
-* [GPT: Editing Facts](https://gist.github.com/ummsumayyah/aa18228d699af057484280c9785e6c49)
-* [BadLLaMa 3: Jailbreaking Open-Weight LLMs](https://gist.github.com/ummaymans/372060e67c6f2f776105874f04511765)
+* [ChatGPT's Impact on Education ~ Ravindar et al.](https://gist.github.com/ummammarah/d01ea0212968c24de1570a5366362431)
+* [LLM-Resilient Exams ~ Larsen](https://gist.github.com/ummkhawla/c9a427f02b403a27674254bffbc2fd45)
+* [GPT: Editing Facts ~ Meng et al.](https://gist.github.com/ummsumayyah/aa18228d699af057484280c9785e6c49)
+* [BadLLaMa 3: Jailbreaking Open-Weight LLMs ~ Volkov](https://gist.github.com/ummaymans/372060e67c6f2f776105874f04511765)
 
 #### CS 8803-O23 Modern Internet Research Methods
 * [Scanning the Internet for Liveness ~ Bano et al.](https://gist.github.com/jm-d3d53c/4e4563f2646a70a46feec5987303e1c2)
 * [Network Measurement Methods for Locating and Examining Censorship Devices ~ Raman et al.](https://gist.github.com/jm-d3d53c/8c4a84eb569a4f019f3124d742a7be5b)
-* [Censored Planet](https://gist.github.com/jm-d3d53c/3c7d6499c8a7b8094d65aebf2962c1ec)
+* [Censored Planet ~ Raman et al.](https://gist.github.com/jm-d3d53c/3c7d6499c8a7b8094d65aebf2962c1ec)
