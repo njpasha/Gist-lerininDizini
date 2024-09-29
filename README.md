@@ -13,6 +13,14 @@
 * [Mathematical Proofs: Strategies](https://gist.github.com/gllch/2a5a13f2356fae9adb6cdb095b94f1b4)
 * [Proof Writing Tips](https://gist.github.com/gllch/ad3546bc56388d1c5f658533ab7d62ce)
 
+#### Optimisation
+* [Introduction to Linear Programming](https://gist.github.com/gllch/8efe196378724dd7b7632dbce8de475f)
+* [The Max-Flow/Min-Cut Theorem](https://gist.github.com/gllch/10a0e3287b826c01001f915a3967e13d)
+
+#### Graph Theory
+* [It's All Connected! In Graph-ical Detail](https://gist.github.com/gllch/46da0bb124efdea95cf606ab9267343b)
+* [Going Green: Trees](https://gist.github.com/gllch/b6fe89eed7cca65484175da6df9de8bd)
+
 #### Optimisation and Control
 * [Deriving the Bellman Optimality Equation](https://gist.github.com/FajrAurangzeb/7e7a32b5e8523c1b65a2326d860ef12a)
 
