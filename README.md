@@ -17,6 +17,16 @@
 * [Introduction to Linear Programming](https://gist.github.com/gllch/8efe196378724dd7b7632dbce8de475f)
 * [The Max-Flow/Min-Cut Theorem](https://gist.github.com/gllch/10a0e3287b826c01001f915a3967e13d)
 
+#### Theory of Computation
+* [On (Un)Computability and Undecidable Problems](https://gist.github.com/njpasha/c8b5a84eb8fa8d576b12a5e12f78d395)
+  * [A Programmer's Intuition to the Undecidability of the Halting Problem](https://gist.github.com/njpasha/63d8bf38f3f84ec0b7cd4cf731194480)
+
+#### Complexity Theory
+* [Algorithms and Problems](https://gist.github.com/njpasha/30636ba6771e8c301ef28dbd934d6e5b)
+* [Algorithms, Formalised](https://gist.github.com/njpasha/c57e8d979e67d5adf07f931bc37bf5fc)
+* [Languages, Decidability, Complexity](https://gist.github.com/njpasha/ad3ce32a7f5e26873462dd88ceaf737d)
+* [Complexity Classes and the Class $\text{P}$](https://gist.github.com/njpasha/f0a8527699581cbd5922fc59e7afc13f)
+
 #### Graph Theory
 * [It's All Connected! In Graph-ical Detail](https://gist.github.com/gllch/46da0bb124efdea95cf606ab9267343b)
 * [Going Green: Trees](https://gist.github.com/gllch/b6fe89eed7cca65484175da6df9de8bd)
