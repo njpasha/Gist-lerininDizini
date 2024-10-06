@@ -25,7 +25,7 @@
 * [Algorithms and Problems](https://gist.github.com/njpasha/30636ba6771e8c301ef28dbd934d6e5b)
 * [Algorithms, Formalised](https://gist.github.com/njpasha/c57e8d979e67d5adf07f931bc37bf5fc)
 * [Languages, Decidability, Complexity](https://gist.github.com/njpasha/ad3ce32a7f5e26873462dd88ceaf737d)
-* [Complexity Classes and the Class $\text{P}$](https://gist.github.com/njpasha/f0a8527699581cbd5922fc59e7afc13f)
+* [Complexity Classes and the Class P](https://gist.github.com/njpasha/f0a8527699581cbd5922fc59e7afc13f)
 
 #### Graph Theory
 * [It's All Connected! In Graph-ical Detail](https://gist.github.com/gllch/46da0bb124efdea95cf606ab9267343b)
