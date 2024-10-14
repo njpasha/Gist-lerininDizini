@@ -44,13 +44,13 @@
 * [i2b2 Architecture](https://gist.github.com/parisaaak/3800537b44fc8265001ee170b379320e)
 
 #### CS 6457 Video Game Design
-* [The Aesthetic Motives for Play (Bateman)](https://gist.github.com/ummammarah/8422984b42665f1bdc12d1361f966f55)
+* [The Aesthetic Motives for Play ~ Bateman](https://gist.github.com/ummammarah/8422984b42665f1bdc12d1361f966f55)
 
 #### CS 6460 Educational Technology: Conceptual Foundations
 * [Basics of Research](https://gist.github.com/njpasha/fc8a2173b4c34aa7a2e4337d36a50a5f)
-* [Traditional, New, and Future Learning Paradigms (de Freitas)](https://gist.github.com/ummammarah/0e0de446b90b8992389bd20db53eb31c)
-* [Game-Based Learning: Disciplinary Influences (de Freitas)](https://gist.github.com/ummammarah/de5df6777e5134cc9eaf32472289bea8)
-* [Gamification, Playful Learning, and Game-Based Learning (Plass et al.)](https://gist.github.com/ummammarah/205575fca13926dd997b7e9fbf4a4603)
+* [Traditional, New, and Future Learning Paradigms ~ de Freitas](https://gist.github.com/ummammarah/0e0de446b90b8992389bd20db53eb31c)
+* [Game-Based Learning: Disciplinary Influences ~ de Freitas](https://gist.github.com/ummammarah/de5df6777e5134cc9eaf32472289bea8)
+* [Gamification, Playful Learning, and Game-Based Learning ~ Plass et al.](https://gist.github.com/ummammarah/205575fca13926dd997b7e9fbf4a4603)
 
 #### CS 6515 Graduate Algorithms
 * [Summary of Graduate Algorithms](https://gist.github.com/njpasha/b705962a5cd2b86dbab7d338738a9e12)
@@ -91,7 +91,7 @@
 * [Generations in the History of Computing](https://gist.github.com/njpasha/3586240922abdc78e0ed1210f9d196d8)
 
 #### CS 7641 Machine Learning
-* [ML and Statistics: Divided by a Common Language (Sarle)](https://gist.github.com/njpasha/e3f84757d2d7474097b727bb19ac2975)
+* [ML and Statistics: Divided by a Common Language ~ Sarle](https://gist.github.com/njpasha/e3f84757d2d7474097b727bb19ac2975)
 
 #### CS 7643 Deep Learning
 * [Fundamentals of Reinforcement Learning](https://gist.github.com/FajrAurangzeb/c2934aa3a9c123f1e5e708a84fea3146)
